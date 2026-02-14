@@ -25,6 +25,7 @@ Welcome to my personal learning journey! This repository serves as a live docume
 * **The Money Maker GANs Game:** Practical understanding of Generative Adversarial Networks.
 
 https://www.credly.com/badges/bfea0df1-64e0-4830-959e-316f045f500c/public_url
+
 https://www.credly.com/badges/41d32bbf-1064-4f1b-a7f0-166c4e932806/public_url
 
 ---
